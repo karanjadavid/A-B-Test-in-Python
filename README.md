@@ -14,7 +14,7 @@ An experiment where old &amp; new website pages are shown to users at random, an
   
  3. Basic statistics understanding
  
- --
+ ---
 ## Problem statement
 MwangiKaranja Co. is a mid-sized e-commerce company that deals in the sale of the best footwear brands in the world: Nike, Adidas, Puma, Converse, New Balance, 
 Reebok, Vans, Under Armour, etc. The marketing team feels like the landing home page needs a revamp to increase the conversion rates of customers visiting the website. 
